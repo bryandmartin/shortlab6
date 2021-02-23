@@ -1,1 +1,5 @@
-# shortlab6A line I wrote using the shell on my local computer
+# shortlab6
+
+A line I wrote using the shell on my local computer
+
+A line I wrote using RStudio
